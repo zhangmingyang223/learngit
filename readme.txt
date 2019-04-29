@@ -5,4 +5,5 @@ hello world 111
 Git has a mutable index called stage.
 add add add
 add
+hello world
 
